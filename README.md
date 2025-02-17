@@ -24,3 +24,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+
+## Elaboração de um algoritmo para resolução do desafio
+Para fins de praticar o conhecimento adquirido no curso elaborei um diagrama que exemplifica o passo a passo lógico que utilizei para solucionar o desafio. 
